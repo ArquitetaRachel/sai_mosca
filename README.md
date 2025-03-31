@@ -23,8 +23,8 @@ Esse é meu primeiro jogo estruturado em python usando **Pygame Zero**, nunca ti
 
 1. faça um clone deste repositório:
    ```bash
-   git clone https://github.com/caglarbilgehan/jump-and-survive.git
-   cd jump-and-survive
+   git clone https://github.com/ArquitetaRachel/sai_mosca.git
+   cd sai_mosca
    ```
 
 2. Install Python and Pygame Zero:
